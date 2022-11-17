@@ -1,0 +1,33 @@
+body{
+    background:linear-gradient(to right,  rgb(2, 30, 39),rgb(236, 231, 231));;
+}
+td:hover{
+    background:linear-gradient(to right, rgb(236, 231, 231), rgb(2, 30, 39));;
+}
+td{
+    width: 200px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(238, 243, 245);   
+
+}
+#click{
+    margin-left:33%;
+}
+button{
+    background-color:rgb(7, 6, 10);
+    border: 0px;
+    border-radius: 5px;
+    height:30px;
+    font-size:20px;
+    margin-right:5px;
+}
+a:hover{
+    color: rgb(3, 1, 1); 
+}
+.sw:hover{
+      
+    background-color:white;
+}

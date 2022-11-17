@@ -1,0 +1,40 @@
+body{
+    background-image:url("/static/image/gbg.jpg");
+}
+.sc{
+    display: none;
+}
+#main{
+    position: absolute;
+    margin-left:25%;
+    margin-top:15%;
+    color: white;
+}
+
+main:hover{
+    background-color: rgb(119, 62, 119);
+}
+a{
+    text-decoration: none;
+    color: white;   
+
+}
+#click{
+    margin-left:10%;
+}
+button{
+    background-color:rgb(197, 179, 179);
+    border: 0px;
+    border-radius: 5px;
+    height:30px;
+    font-size:20px;
+    margin-right:5px;
+}
+a:hover{
+    color: rgb(197, 179, 179); 
+}
+.sw:hover{
+      
+    background-color:white;
+}
+

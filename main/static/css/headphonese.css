@@ -1,0 +1,38 @@
+body{
+    background:linear-gradient(to right,  rgb(245, 245, 245),rgb(19, 7, 112));
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+#main{
+    margin-left:190px;
+}
+td:hover{
+    background:linear-gradient(to top,  rgb(245, 245, 245),rgb(2, 1, 10));
+}
+td{
+    width: 200px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(238, 243, 245);   
+
+}
+#click{
+    margin-left:35%;
+}
+button{
+    background-color:rgb(4, 1, 12);
+    border: 0px;
+    border-radius: 5px;
+    height:30px;
+    font-size:20px;
+    margin-right:5px;
+}
+a:hover{
+    color: rgb(3, 1, 1); 
+}
+.sw:hover{
+      
+    background-color:white;
+}

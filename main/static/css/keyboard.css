@@ -1,0 +1,38 @@
+body{
+    background:linear-gradient(to right,  rgb(155, 37, 37),rgb(15, 161, 22),rgb(55, 46, 187));
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+#main{
+    margin-left:190px;
+}
+td:hover{
+    background:linear-gradient(to bottom,  rgb(155, 37, 37),rgb(15, 161, 22),rgb(55, 46, 187));
+}
+td{
+    width: 200px;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+    color: rgb(238, 243, 245);   
+
+}
+#click{
+    margin-left:35%;
+}
+button{
+    background-color:rgb(51, 23, 134);
+    border: 0px;
+    border-radius: 5px;
+    height:30px;
+    font-size:20px;
+    margin-right:5px;
+}
+a:hover{
+    color: rgb(3, 1, 1); 
+}
+.sw:hover{
+      
+    background-color:white;
+}
